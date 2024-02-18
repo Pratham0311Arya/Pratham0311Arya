@@ -14,7 +14,7 @@
 - **Data Visualization:** Matplotlib
 - **Database:** SQL
 - **Tools:** Jupyter, Git
-- **Tools** - Excel, Power BI, Tableau
+- **Tools:** Excel, Power BI, Tableau
 
 ### Soft Skills
 - **Communication:** Able to convey complex technical concepts to non-technical stakeholders.
