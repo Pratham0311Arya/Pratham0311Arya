@@ -24,7 +24,7 @@
 ## 📚 Education
 
 ### Bachelor of Computer Science (Honours) | Delhi University | Delhi | 2020-2023
-### Skill Development - Master In Data Science & Analytics With AI | ItVedant Education Private Ltd. | Mum bai | 2023-2024
+###  Master In Data Science & Analytics With AI | ItVedant Education Private Ltd. | Mum bai | 2024
 
 
 
