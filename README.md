@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Arya</h1>
 <h3 align="center">I am aspiring Data Scientist</h3>
 
-- 📫 How to reach me **pratham0311arya@gmail.com** 
+- 📫 How to reach me **prathamaryawork@gmail.com** 
 - 🧑‍🔬 Passionate about translating data into actionable insights and making data-driven decisions.
 - 🌱 I have a strong foundation in statistics, machine learning, and data analysis, coupled with excellent communication skills to convey complex findings to both technical and non-technical stakeholders.
 
